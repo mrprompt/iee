@@ -1,0 +1,12 @@
+; -- iee script - coloque aqui sua aliases
+;
+hua say  $+ $r(00,15) $+ huAeHUIaEHaUEhaeEuHUAehaEHAHEUAHEuaiHEAUEAHUEhuaheAUHEUAHEA
+hua2 say RuArUaRuArUaRuArUaRuArUaRuArUaRuArUa
+hua3 say  $+ $r(00,15) $+ RuArUaRuArUaRuArUaRuArUaRuArUaRuArUaRuArUa $+ 
+he say  $+ $r(00,15) $+ HeHeHEEHEHeHeeHeHeheHeHEEhehEeHeEHeEHehEHeHeheHe
+ka say  $+ $r(01,15) $+ KaKaKAKaKaKAAKaKaAKaKaAKaKAAKaKaAKAKaKAAKaKaKaKaKaKAAKaKaKAAKAKa
+ha say  $+ $r(01,15) $+ HaHaHaHAaHaHAHAHAHahaHaHaHahaHaHahaHaHAAHaHahAHaHaahHA
+ha2 say 1haHAAhhaHahhHahhahahahAhhahahahAa
+hi say  $+ $r(00,15) $+ HiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHiHi
+Í say  $+ $r(00,15) $+  ÍEÍEÍ e e EÍEÍEe eÍeÍÍeÍÍE  ÍÍÍE  ÍÍ  ÍE e e
+linguiga say 1TÙ MuItO AfIm HeIn 01,01Di EntErRAr a LinGuiÁA!!!! (by MrPrompt )

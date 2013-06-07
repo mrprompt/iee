@@ -1,0 +1,43 @@
+.:: Fx
+
+Ctrl + F1: abre este arquivo
+F2: conectar-se ao servidor de sua preferência
+Ctrl + F2: Abre a janela de servidores
+Shift + F2: Abre a janela de quit
+F3: abre a janela para identificação do nick
+Ctrl + F3: abre a janela para registro do nick
+Shift + F3: derrubar nick preso (/nickerv ghost)
+F4: pede op ao chanserv
+F5: toca uma mp3 aleatóriamente
+Shift + F5: seleciona uma mp3 pra ser tocada
+Ctrl + F5: abre o mp3 player
+F6: limpa a janela atual
+Shift + F6: apaga todas as janelas
+F7: entra em modo away
+Shift + F7: abre o sistema de away
+F8: abre o gerenciador de temas
+F12: abre o configurador do script
+
+.:: Comandos
+
+/op <nick> [nick2] [nick2] : dá op no canal atual
+/dop <nick> [nick2] [nick2] : tira op no canal atual
+/j <canal> [parms]: entra em um canal, onde parms pode ser a senha do mesmo
+/p [canal] [parms]: sai de um canal (ou do atual se o mesmo não for especificado), parms pode ser uma mensagem
+/n <canal>: mostra quem está visível num canal
+/w <nick>: mostra detalhes sobre uma pessoa
+/k <nick> [motivo]: kicka (chuta) uma pessoa do canal atual
+/q <nick>: abre um pvt
+/send [nick] [arquivo]: enviar arquivos
+/chat [nick]: abre um chat
+/ping <nick>: pinga
+c [janela]: limpar janela (onde janela é a atual se não especificada)
+kb <nick> [motivo]: dá um kick + ban 
+ni <nick>: mostra info sobre nick, se este estiver registrado
+ci <canal>: mostra info sobre canal, se este estiver registrado
+on [canal] <texto> : onotice (se o canal for a janela ativa, este não precisa ser especificado)
+myver returna a versão do script
+cfgnc : configura a completação de nick
+themes : abre sistema de temas do script
+mts [tema.mts]: carrega um tema
+awaysys : abre o sistema de away
